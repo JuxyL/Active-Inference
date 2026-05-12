@@ -1,0 +1,6 @@
+name: pymc_env
+channels:
+  - conda-forge
+dependencies:
+  - pymc[version='>=5']
+prefix: C:\Users\SongJ\.conda\envs\pymc_env
