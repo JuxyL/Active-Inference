@@ -5,7 +5,7 @@ from scipy.special import digamma, gammaln
 from scipy.optimize import minimize
 from scipy.stats import norm
 
-np.random.seed(42)
+np.random.seed(114)
 
 # ---------- True parameters ----------
 mu_true = 3.0
